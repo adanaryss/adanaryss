@@ -75,17 +75,6 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 
 ---
 
-### 📬 Vamos nos conectar? / Let's connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adanarys--mendonça-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanarys-mendonça-576660218/)
-[![Email](https://img.shields.io/badge/E--mail-adanarysmendonca04@gmail.com-f58ecf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanarysmendonca04@gmail.com)
-
-</div>
-
----
-
 <p align="center">
   ✨ Obrigada por visitar meu cantinho! Que seu dia seja cheio de boas energias 💖<br/>
   ✨ Thanks for visiting my corner! May your day be as full of good vibes 💖

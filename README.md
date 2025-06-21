@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação | 🧠 Apaixonada por aprender | 🌈 Exploradora de universos fofos (e de código!)<br/>
-  💻 Computer Science Student | 🧠 Passionate Learner | 🌈 Explorer of cute worlds (and code!)
+  💻 Estudante de Ciência da Computação <br/>
+  💻 Computer Science Student
 </p>
 
 ---
@@ -24,13 +24,13 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 
 ✨ Já fui voluntária de uma ONG na área de TI  
 💼 Estagiária na Inbetta  
-🌸 Fã de BTS, com o coração especialmente voltado para os Jikook  
-☕ Amo café, animes e tudo mais!
+🌸 Fã de BTS, com o coração voltado para os Jikook  
+☕ Amo café, animes e BL's!
 
 ✨ I have volunteered in an IT NGO  
 💼 Intern at Inbetta  
 🌸 BTS fan, especially loving Jikook  
-☕ Coffee lover, anime fan, and more!
+☕ Coffee lover, anime fan and BL's fan!
 
 ---
 
@@ -87,6 +87,6 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 ---
 
 <p align="center">
-  ✨ Obrigada por visitar meu cantinho! Que seu dia seja doce como o Cinnamoroll e cheio de boas energias 💖<br/>
-  ✨ Thanks for visiting my corner! May your day be as sweet as Cinnamoroll and full of good vibes 💖
+  ✨ Obrigada por visitar meu cantinho! Que seu dia seja cheio de boas energias 💖<br/>
+  ✨ Thanks for visiting my corner! May your day be as full of good vibes 💖
 </p>

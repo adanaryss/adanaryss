@@ -42,7 +42,7 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 ![HTML5](https://img.shields.io/badge/HTML5-fb7299?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-61dafb?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle_APEX-f80000?style=for-the-badge&logo=oracle&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -67,10 +67,16 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 
 ---
 
-### 💫 Estatísticas / Stats
+### 📫 Contato / Contact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanaryss&show_icons=true&theme=cobalt&hide_title=true" />
+  <a href="mailto:adanarysmendonca04@gmail.com" style="text-decoration:none; margin-right:20px;">
+    📧 adanarysmendonca04@gmail.com
+  </a>
+  |
+  <a href="https://www.linkedin.com/in/adanarys/" target="_blank" style="text-decoration:none; margin-left:20px;">
+    🔗 LinkedIn
+  </a>
 </p>
 
 ---

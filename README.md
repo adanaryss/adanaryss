@@ -43,10 +43,9 @@ Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de
 
 | 🌟 Projeto | 💬 Descrição |
 |-----------|--------------|
-| 🌳 Árvore das Emoções | Projeto interativo inspirado na educação emocional, onde o usuário escolhe emoções e vê respostas visuais e simbólicas. Feito com HTML, CSS e JavaScript. |
-| 🎨 Color Picker | Ferramenta que permite ao usuário escolher cores e copiar seus códigos em hexadecimal. Um projeto simples, útil e fofo! |
-| 🐰 Sanrio Project | Página temática com personagens da Sanrio, incluindo navegação personalizada e estilo kawaii. Perfeito pra quem ama Cinnamoroll e cia! |
-| 🎮 BTS Quiz Game | Jogo interativo com perguntas sobre o universo BTS! Com design leve e lúdico, é um tributo cheio de carinho ao grupo. |
+| 🌳 Árvore das Emoções | Projeto interativo onde o usuário digita uma emoção: se for positiva, a árvore cresce; se for negativa, ela murcha. Uma experiência visual de autoconsciência emocional. |
+| 🐰 Sanrio Mood Project | Página fofa com personagens como My Melody e Cinnamoroll, que perguntam como você está. Dependendo de quem você clica, recebe uma mensagem acolhedora. Um carinho digital. |
+| 💜 BTS Tata Click Game | Jogo divertido em que o personagem Tata aparece em vários lugares da tela — seu desafio é clicar o mais rápido possível. Um mini game interativo feito com amor por ARMY! |
 | 🎀 Portfólio Pessoal | Um site rosa e encantador com o mascote Cinnamoroll interativo, animações suaves, links de cursos e redes sociais. O toque final da sua magia pessoal. |
 
 ---

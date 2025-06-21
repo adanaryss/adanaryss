@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/YvdvuFHCD4kAAAAi/cinnamoroll-cute.gif" width="150"/>
+  <img src="https://media.tenor.com/YvdvuFHCD4kAAAAi/cinnamoroll-cute.gif" width="150" />
 </p>
 
 <p align="center">
@@ -57,13 +57,6 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 | 🐰 Sanrio Mood Project | Página fofa com personagens como My Melody e Cinnamoroll, que perguntam como você está. Dependendo de quem você clica, recebe uma mensagem acolhedora. Um carinho digital. |  
 | 💜 BTS Tata Click Game | Jogo divertido em que o personagem Tata aparece em vários lugares da tela — seu desafio é clicar o mais rápido possível. Um mini game interativo feito com amor por ARMY! |  
 | 🎀 Portfólio Pessoal | Um site rosa e encantador com o mascote Cinnamoroll interativo, animações suaves, links de cursos e redes sociais. |  
-
-| 🌟 Project | 💬 Description |
-|-----------|--------------|
-| 🌳 Tree of Emotions | An interactive project where the user types an emotion: if positive, the tree grows; if negative, it shrinks. A visual experience of emotional self-awareness. |  
-| 🐰 Sanrio Mood Project | Cute page with characters like My Melody and Cinnamoroll asking how you’re feeling. Depending on who you click, you get a comforting message. A digital hug. |  
-| 💜 BTS Tata Click Game | Fun game where Tata appears in various parts of the screen — your challenge is to click as fast as possible. A mini interactive game made with love by an ARMY! |  
-| 🎀 Personal Portfolio | A pink and charming website with the interactive Cinnamoroll mascot, smooth animations, course links, and social media. |
 
 ---
 

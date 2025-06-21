@@ -7,20 +7,20 @@
 </p>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação | 🧠 Apaixonada por aprender | 🌈 Exploradora de universos mágicos (e de código!)
+  💻 Estudante de Ciência da Computação | 🧠 Apaixonada por aprender | 🌈 Exploradora de universos fofos (e de código!)
 </p>
 
 ---
 
 ### 💌 Sobre mim
 
-Oiê! Sou a Adanarys, uma gaúcha de 20 anos que estuda Ciência da Computação com muito amor e curiosidade!  
-Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de dados e interfaces fofas (sim, com muita influência do meu mascote preferido — o Cinnamoroll! 🐶).
+Oiê! Sou a Adanarys, uma gaúcha de 20 anos que estuda Ciência da Computação!  
+Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de dados e interfaces.
 
 ✨ Já fui voluntária de uma ONG na área de TI  
 💼 Estagiária na Inbetta  
-🌸 Fã de BTS, com o coração especialmente voltado pra Jikook  
-☕ Amo café, design fofo, animes e tudo que envolve criatividade!
+🌸 Fã de BTS, com o coração especialmente voltado para os Jikook  
+☕ Amo café, animes e tudo mais!
 
 ---
 
@@ -46,11 +46,11 @@ Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de
 | 🌳 Árvore das Emoções | Projeto interativo onde o usuário digita uma emoção: se for positiva, a árvore cresce; se for negativa, ela murcha. Uma experiência visual de autoconsciência emocional. |
 | 🐰 Sanrio Mood Project | Página fofa com personagens como My Melody e Cinnamoroll, que perguntam como você está. Dependendo de quem você clica, recebe uma mensagem acolhedora. Um carinho digital. |
 | 💜 BTS Tata Click Game | Jogo divertido em que o personagem Tata aparece em vários lugares da tela — seu desafio é clicar o mais rápido possível. Um mini game interativo feito com amor por ARMY! |
-| 🎀 Portfólio Pessoal | Um site rosa e encantador com o mascote Cinnamoroll interativo, animações suaves, links de cursos e redes sociais. O toque final da sua magia pessoal. |
+| 🎀 Portfólio Pessoal | Um site rosa e encantador com o mascote Cinnamoroll interativo, animações suaves, links de cursos e redes sociais. |
 
 ---
 
-### 💫 Estatísticas (porque programar também é magia!)
+### 💫 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adanaryss&show_icons=true&theme=cobalt&hide_title=true" />
@@ -62,7 +62,7 @@ Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adanaryss-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanaryss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adanarys--mendonça-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanarys-mendonça-576660218/)
 [![Email](https://img.shields.io/badge/E--mail-adanarysmendonca04@gmail.com-f58ecf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanarysmendonca04@gmail.com)
 
 </div>

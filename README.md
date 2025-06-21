@@ -73,4 +73,3 @@ Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de
 <p align="center">
   ✨ Obrigada por visitar meu cantinho! Que seu dia seja doce como o Cinnamoroll e cheio de boas energias 💖
 </p>
-"feat: cria meu readmefofo"

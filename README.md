@@ -16,21 +16,21 @@
 
 ### 💌 Sobre mim / About me
 
-Oiê! Sou a Adanarys, uma gaúcha de 20 anos que estuda Ciência da Computação!  
-Atualmente estou no 5º semestre, explorando o mundo da programação, bancos de dados e interfaces.  
+Oiê! Sou a Adanarys, uma gaúcha de 21 anos que estuda Ciência da Computação!  
+Atualmente estou no 6º semestre, explorando o mundo da programação, bancos de dados, SAP e interfaces.  
 
-Hello! I'm Adanarys, a 20-year-old from southern Brazil studying Computer Science.  
-Currently in my 5th semester, exploring programming, databases, and user interfaces.
+Hello! I'm Adanarys, a 21-year-old from southern Brazil studying Computer Science.  
+Currently in my 6th semester, exploring programming, databases, SAP and user interfaces.
 
-✨ Já fui voluntária de uma ONG na área de TI  
+🌳 Já fui voluntária de uma ONG na área de TI  
 💼 Estagiária na Inbetta  
-🌸 Fã de BTS, com o coração voltado para os Jikook  
-☕ Amo café, animes e BL's!
+🌸 Fã de BTS
+☕ Amo café
 
-✨ I have volunteered in an IT NGO  
+🌳 I have volunteered in an IT NGO  
 💼 Intern at Inbetta  
-🌸 BTS fan, especially loving Jikook  
-☕ Coffee lover, anime fan and BL's fan!
+🌸 BTS fan
+☕ Coffee lover
 
 ---
 
@@ -82,6 +82,6 @@ Currently in my 5th semester, exploring programming, databases, and user interfa
 ---
 
 <p align="center">
-  ✨ Obrigada por visitar meu cantinho! Que seu dia seja cheio de boas energias 💖<br/>
-  ✨ Thanks for visiting my corner! May your day be as full of good vibes 💖
+  Obrigada por visitar meu cantinho!<br/>
+  Thanks for visiting my corner!
 </p>
